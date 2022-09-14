@@ -3,7 +3,6 @@
 // Asegúrate que usas "return" cuando la consola te lo pida.
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
-// Probando cambios en GitHub
 
 function devolverString(str) {
     // "Return" la string provista: str
